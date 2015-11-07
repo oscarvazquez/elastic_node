@@ -1,0 +1,12 @@
+{
+  "name": "elastic_node",
+  "dependencies": {
+    "express": "~4.10.0",
+    "body-parser": "latest",
+    "moment": "^2.10.6",
+    "elasticsearch": "latest",
+    "ejs": "latest",
+    "q": "1.0.1",
+    "less-middleware": "1.0.x"
+  }
+}
